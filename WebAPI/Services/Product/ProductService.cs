@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using WebAPI.Data;
 using WebAPI.Dto.ProductsDto;
 using WebAPI.Models;
+using WebAPI.Repositories;
 
 namespace WebAPI.Services.ProductModel;
 public class ProductService : IProductService

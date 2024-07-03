@@ -1,6 +1,6 @@
 ﻿using WebAPI.Dto.CategoriesDto;
 using WebAPI.Models;
-namespace WebAPI.Services.CategoryModel;
+namespace WebAPI.Repositories;
 public interface ICategoryService
 {
     Task<ResponseModel<List<Category>>> GetAllCategories();

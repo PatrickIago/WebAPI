@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using WebAPI.Data;
 using WebAPI.Dto.CategoriesDto;
-using WebAPI.Dto.ProductsDto;
 using WebAPI.Models;
+using WebAPI.Repositories;
 
 namespace WebAPI.Services.CategoryModel;
 public class CategoryService : ICategoryService
