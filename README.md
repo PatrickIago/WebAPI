@@ -1,4 +1,3 @@
-# WebAPI
 # WebAPI de Produtos com Entity Framework e .NET 8
 
 Esta é uma WebAPI desenvolvida em .NET 8 que gerencia produtos e categorias com o uso do Entity Framework Core para interação com o banco de dados.
